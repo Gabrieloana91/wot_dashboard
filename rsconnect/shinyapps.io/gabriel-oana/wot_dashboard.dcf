@@ -1,0 +1,13 @@
+name: wot_dashboard
+title:
+username:
+account: gabriel-oana
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 253138
+bundleId: 1159637
+url: https://gabriel-oana.shinyapps.io/wot_dashboard/
+when: 1514938602.84433
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: logo.png
